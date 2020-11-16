@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt.Argon2", "Encrypt.Argon2\Encrypt.Argon2.csproj", "{71D92B60-7AE1-4171-B42E-238972553DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D92B60-7AE1-4171-B42E-238972553DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D92B60-7AE1-4171-B42E-238972553DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D92B60-7AE1-4171-B42E-238972553DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D92B60-7AE1-4171-B42E-238972553DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B83ED13-D0E0-42AC-B014-E68AF80FC26A}
+	EndGlobalSection
+EndGlobal
